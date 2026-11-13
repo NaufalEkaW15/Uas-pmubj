@@ -126,4 +126,4 @@ _modules/*
 /phpunit*.xml
 
 /env
-/.env
+/.envInvalid switch - /writable
